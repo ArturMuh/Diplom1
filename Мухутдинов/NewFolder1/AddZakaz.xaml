@@ -1,0 +1,24 @@
+﻿<Window x:Class="Мухутдинов.NewFolder1.AddZakaz"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Мухутдинов.NewFolder1"
+        mc:Ignorable="d"
+        Title="Заказ" Height="330" Width="300">
+    <Grid>
+        <Label Content="ID заказа:" HorizontalAlignment="Left" Margin="31,27,0,0" VerticalAlignment="Top" Width="92" Height="26"/>
+        <TextBox Name="IDzakazayaField" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="102,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+        <Label Content="Дата заказа:" HorizontalAlignment="Left" Margin="26,89,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.48,0.578"/>
+        <DatePicker Name="DatezakazayaField" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="102,92,0,0" Text="" VerticalAlignment="Top" Width="150"/>
+        <Label Content="Название книги:" HorizontalAlignment="Right" Margin="0,61,198,0" VerticalAlignment="Top" Width="102"/>
+        <ComboBox x:Name="comboboxLocality24" HorizontalAlignment="Left" VerticalAlignment="Top"  Grid.Column="1" Grid.Row="0" Width="150" IsEditable="True"  DisplayMemberPath="Nazvanie_knigi" Margin="102,63,0,0"  />
+        <Label Content="Цена:" HorizontalAlignment="Right" Margin="0,120,216,0" VerticalAlignment="Top" RenderTransformOrigin="-0.268,0.538"/>
+        <TextBox Name="PriceField" Grid.Column="1" HorizontalAlignment="Left" Margin="102,124,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150" Height="22" PreviewTextInput="PriceField_PreviewTextInput"/>
+        <Label Content="Количество:" HorizontalAlignment="Right" Margin="0,153,208,0" VerticalAlignment="Top" RenderTransformOrigin="-0.268,0.538" Width="82"/>
+        <TextBox Name="KolichestvoField" Grid.Column="1" HorizontalAlignment="Left" Margin="102,155,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150" Height="22" PreviewTextInput="KolichestvoField_PreviewTextInput"/>
+        <Button x:Name="addBth" Content="Добавить" HorizontalAlignment="Center" Margin="0,224,0,0" VerticalAlignment="Top" Height="30" Width="110" Click="addBth_Click"/>
+        <Label Content="Статус:" HorizontalAlignment="Left" Margin="40,179,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboboxLocality25" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="0" Width="150" IsEditable="True"  DisplayMemberPath="Name" Margin="102,183,0,0"  />
+    </Grid>
+</Window>

@@ -1,0 +1,369 @@
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csprojAssemblyReference.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csprojAssemblyReference.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\Артур Мухутдинов\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\Dmitriy\Desktop\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_05_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\Downloads\Diplom_Mukhutdinov_22_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_23_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe.config
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.xml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.ResolveComReference.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\PostavshikPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_Content.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов_MarkupCompile.lref
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\MainWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AddZakaz.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\AvtoryPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\GlavPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\IzdatelstvoPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\KnigiPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\PostavshikPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\RazdeliPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\StatusWindow.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\ZakazPage.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Window1.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.g.resources
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.Properties.Resources.resources
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.csproj.CopyComplete
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.exe
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\Мухутдинов.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\MaterialDesignColors.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\MaterialDesignColors.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\App.baml
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\SpisanieknigPage.g.cs
+C:\Users\acer\OneDrive\Рабочий стол\Diplom_Mukhutdinov_24_04_2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов 05.04.2023\Диплом Мухутдинов\Мухутдинов\obj\Debug\NewFolder1\SpisanieknigPage.baml

@@ -1,0 +1,124 @@
+﻿<Window x:Class="Мухутдинов.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Мухутдинов"
+        mc:Ignorable="d"
+        Title="Главное меню" Height="600" Width="1000" ResizeMode="NoResize">
+    <Grid Background="#FFD4D4D4">
+        <Grid x:Name="panelHearder" VerticalAlignment="Top" Height="50" Background="#FF06E9C9" MouseDown="panelHearder_MouseDown">
+            <TextBlock Text="Учет поступления книг в библиотеку" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Century Gothic" FontSize="18" FontWeight="Bold" Foreground="White"/>
+        </Grid>
+        <DockPanel>
+            <Grid x:Name="sidePanel" Background="#FF06E9C9" HorizontalAlignment="Left" Width="150">
+                <StackPanel>
+                    <Grid Height="150" Background="White" >
+                        <Image Source="/Resources/avatarka.jpg" Margin="10,43,10,20"/>
+
+                        <Button HorizontalAlignment="Right" Height="20" VerticalAlignment="Top" Background="Transparent" BorderBrush="Transparent" Click="Button_Click">
+                            <Image Source="Resources/menu.png"/>
+
+                        </Button>
+                    </Grid>
+                    <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" FontFamily="Century Gothic" FontSize="13" Foreground="White" BorderBrush="Transparent" Background="Transparent">
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="{x:Type ListViewItem}">
+                                <Style.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter Property="Foreground" Value="Black"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                        <ListViewItem ToolTip="Главная" Name="HearderMenu" Height="30" Selected="HearderMenu_Selected">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/home.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Главная" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Авторы" Name="HearderAvtory" Height="30" Selected="HearderAvtory_Selected">
+
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/user.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Авторы" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Книги" Name="HearderKnigi" Height="30" Selected="HearderKnigi_Selected">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/kniga.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Книги" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Издательство" Name="HearderIzdatelstvo" Height="30" Selected="HearderIzdatelstvo_Selected">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/izd.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Издательство" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Разделы" Height="30" Selected="ListViewItem_Selected_1">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/razdel.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Разделы" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Заказ" Height="30" Selected="ListViewItem_Selected">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/zakaz.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Заказ" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Поставщик" Height="30" Selected="ListViewItem_Selected_2">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/postavka.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Поставщик" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Вид издания" Height="30">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/vid.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Вид издания" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Списание книг" Height="30" Selected="ListViewItem_Selected_3">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Resources/vid.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Списание книг" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+                        <ListViewItem ToolTip="Выход" Name="Exit" Height="30" Selected="Exit_Selected" >
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Resources/Exit.png" Height="20" VerticalAlignment="Center"/>
+                                <TextBlock Margin="15,0,0,0" Text="Выход" FontWeight="Bold" VerticalAlignment="Center" />
+
+                            </StackPanel>
+
+                        </ListViewItem>
+
+
+                    </ListView>
+                </StackPanel>
+
+            </Grid>
+            <Frame x:Name="Main" NavigationUIVisibility="Hidden" Margin="0,50,0,0"/>
+        </DockPanel>
+    </Grid>
+</Window>

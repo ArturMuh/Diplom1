@@ -1,0 +1,49 @@
+﻿<Page x:Class="Мухутдинов.NewFolder1.SpisanieknigPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Мухутдинов.NewFolder1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450"
+      Title="Списание книги" Width="900"  Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="167*"></ColumnDefinition>
+            <ColumnDefinition Width="13*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <DataGrid x:Name="SpisanieDataGrid" CanUserAddRows="False" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер списания" x:Name="ID_spis" Width="1*" Binding="{Binding ID_spis, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Название книги" x:Name="Nazvanie_knigi" Width="1*" Binding="{Binding Nazvanie_knigi, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Автор" x:Name="Nameavtory" Width="1*" Binding="{Binding Nameavtory, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Вид издания" x:Name="Vidizdanie" Width="1*" Binding="{Binding Vidizdanie, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Издательство" x:Name="Izdatelstvo" Width="1*" Binding="{Binding Izdatelstvo, Mode=TwoWay}"/>
+                    <DataGridTextColumn Header="Дата списания" x:Name="Date_spis" Width="1*" Binding="{Binding Date_spis, Mode=TwoWay, StringFormat=dd.MM.yyyy}"/>
+                    <DataGridTextColumn Header="Причина" x:Name="Prichina" Width="1*" Binding="{Binding Prichina, Mode=TwoWay}"/>
+                    <DataGridTemplateColumn Header="" Width="0.5*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Name="delete" Click="delete_Click">
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="/Resources/delete.png" Stretch="Uniform"/>
+                                    </Button.Background>
+                                    <Button.ToolTip>
+                                        <ToolTip>
+                                            <TextBlock>Удалить</TextBlock>
+                                        </ToolTip>
+                                    </Button.ToolTip>
+                                </Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Page>

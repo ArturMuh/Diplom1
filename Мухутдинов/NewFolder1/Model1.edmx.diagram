@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="410a075f531b4630b00ddfbe8bae9ef3" Name="Diagram1">
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Avtory" Width="1.5" PointX="0.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Biblioteka" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Izdatelstvo" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Knigi" Width="1.5" PointX="3" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Postavshik" Width="1.5" PointX="0.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Razdeli" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Sostav_zakaza" Width="1.5" PointX="5.25" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Spisanie" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Status" Width="1.5" PointX="0.75" PointY="14.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.sysdiagrams" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Vid_izdanie" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Diplom_Мухутдинов1Model.Zakaz" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Knigi_Avtory" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Knigi_Izdatelstvo" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Knigi_Razdeli" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Knigi_Vid_izdanie" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Sostav_zakaza_Knigi" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Spisanie_Knigi" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Zakaz_Postavshik" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Sostav_zakaza_Zakaz" ManuallyRouted="false" />
+        <AssociationConnector Association="Diplom_Мухутдинов1Model.FK_Zakaz_Status" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
